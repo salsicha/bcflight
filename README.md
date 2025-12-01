@@ -1,5 +1,6 @@
 # BCFlight 🚁
 
+## Alternative hardware notes
 
 TODO: new hardware list
 Ozzmaker Sara R5
@@ -59,7 +60,7 @@ https://github.com/magicleap/SuperPointPretrainedNetwork
 
 
 
-Original README below:
+## Original README below:
 
 [![Build Status](https://ci.drich.fr/buildStatus/icon?job=BCFlight)](https://ci.drich.fr/job/BCFlight/)
 [![Tests Status](https://ci.drich.fr/buildStatus/icon?job=BCFlight-tests&subject=tests)](https://ci.drich.fr/job/BCFlight-tests/)
