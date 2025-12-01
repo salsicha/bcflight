@@ -1,5 +1,20 @@
 # BCFlight 🚁
 
+
+TODO: new hardware list
+Ozzmaker Sara R5
+RPi5
+Oak-1 camera
+MakerFocus TF Luna Lidar
+ESC 3A UBEC w/ XT60
+motors 
+frame 
+batteries
+proprellers
+DroneBridge WiFi
+
+
+
 [![Build Status](https://ci.drich.fr/buildStatus/icon?job=BCFlight)](https://ci.drich.fr/job/BCFlight/)
 [![Tests Status](https://ci.drich.fr/buildStatus/icon?job=BCFlight-tests&subject=tests)](https://ci.drich.fr/job/BCFlight-tests/)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
