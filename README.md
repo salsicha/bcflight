@@ -17,6 +17,10 @@ proprellers
 DroneBridge WiFi
 
 
+Raspberry Pi 4 PWM out:
+https://forums.raspberrypi.com/viewtopic.php?t=393541
+
+
 Hardware:
 
 GPS/IMU/LTE
