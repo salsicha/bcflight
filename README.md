@@ -8,6 +8,8 @@ Oak-1 camera
 MakerFocus TF Luna Lidar
 ESC 3A UBEC w/ XT60
 motors 
+motor shield:
+https://abyz.me.uk/rpi/pigpio/ex_motor_shield.html
 frame 
 batteries
 proprellers
